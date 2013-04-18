@@ -37,7 +37,7 @@ $submit = array(
       <div class="span7" style="border-right: 1px solid #ddd;">
         <h2>Shift Management System</h2>
         <h1>SMS</h1>
-        <p style="margin-top: 1em;"><b>社内用シフト管理システム</b></p>
+        <p style="margin-top: 1em;"><b>アヴァンセが辿り着いた至高のシフト管理システム</b></p>
       </div>
       <div class="span5">
         <h4 style="line-height: 3em;">ログイン</h4>
