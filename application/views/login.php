@@ -35,9 +35,12 @@ $submit = array(
   <div class="hero-unit" style="padding-top: 80px; padding-bottom: 80px;">
     <div class="row-fluid">
       <div class="span7" style="border-right: 1px solid #ddd;">
+		<div>
+		<img src="<?='./img/itekuru.jpg'?>" style="height: 62px; width:62px;">
+		</div>
         <h2>Shift Management System</h2>
         <h1>SMS</h1>
-        <p style="margin-top: 1em;"><b>阪本用</b></p>
+        <p style="margin-top: 1em;"><b>アヴァンセが辿り着いた究極のコンビニいてくるシステム</b></p>
       </div>
       <div class="span5">
         <h4 style="line-height: 3em;">ログイン</h4>
